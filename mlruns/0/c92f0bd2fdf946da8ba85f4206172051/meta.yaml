@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Kidney_Classification_MLOps/Disease_Classification_using_MLFlow/mlruns/0/c92f0bd2fdf946da8ba85f4206172051/artifacts
+end_time: 1712861364108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c92f0bd2fdf946da8ba85f4206172051
+run_name: bouncy-loon-210
+run_uuid: c92f0bd2fdf946da8ba85f4206172051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712861354609
+status: 3
+tags: []
+user_id: dhanu
