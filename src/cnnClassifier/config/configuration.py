@@ -76,7 +76,6 @@ class ConfigurationManager:
         )
 
         return training_config
-    
 
 
     def get_evaluation_config(self) -> EvaluationConfig:
@@ -89,3 +88,6 @@ class ConfigurationManager:
             params_batch_size=self.params.BATCH_SIZE
         )
         return eval_config
+
+
+

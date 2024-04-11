@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Kidney_Classification_MLOps/Disease_Classification_using_MLFlow/mlruns/0/0e87c9c52f6043dab80f4a9395a285bd/artifacts
+end_time: 1712861756428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e87c9c52f6043dab80f4a9395a285bd
+run_name: valuable-ray-931
+run_uuid: 0e87c9c52f6043dab80f4a9395a285bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712861745914
+status: 3
+tags: []
+user_id: dhanu
